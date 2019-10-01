@@ -1,2 +1,5 @@
 This is a Test File 
+<<<<<<< HEAD
+this is a modified line1
 modified... line2
+
